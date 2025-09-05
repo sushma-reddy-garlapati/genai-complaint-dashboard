@@ -15,7 +15,6 @@ A full-stack NLP assistant that retrieves and summarizes consumer complaints usi
 
 👉 [Try the Streamlit Dashboard](https://sushma-reddy-garlapati-genai-complaint-dashboard.streamlit.app)
 
-_(Replace this link once your Streamlit app is deployed)_
 
 ## 🚀 Setup Instructions
 
