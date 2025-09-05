@@ -53,7 +53,9 @@ def summarize_query(request: QueryRequest):
         return {"error": "Failed to summarize"}
 
 # Step 8: Complaint lookup
-df = pd.read_csv("cleaned_complaints.csv")
+#df = pd.read_csv("cleaned_complaints.csv")
+df = pd.read_csv("https://www.dropbox.com/scl/fi/u6gbti2v4nm5me4nlnyvs/cleaned_complaints.csv?rlkey=6wgzmzz6h2tuuhbtqye2iuum5&st=uauy2nee&raw=1")
+
 
 @app.get("/complaint/{complaint_id}")
 def get_complaint(complaint_id: int):
