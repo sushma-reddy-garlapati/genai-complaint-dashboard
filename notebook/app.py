@@ -6,7 +6,9 @@ import math
 st.set_page_config(page_title="Consumer Complaint Dashboard", layout="wide")
 
 # Load dataset
-df = pd.read_csv("../data/rows.csv")  # Adjust path if needed
+#df = pd.read_csv("../data/rows.csv")  # Adjust path if needed
+df = pd.read_csv("https://www.dropbox.com/scl/fi/d09ihq9jk11h27rkzypfj/rows.csv?rlkey=dn8gdw71qpdzcxbusg4qp37he&st=ut3ues0g&raw=1")
+
 
 # Sidebar filters
 st.sidebar.title("🔍 Filter Complaints")
