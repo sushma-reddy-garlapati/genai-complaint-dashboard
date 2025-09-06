@@ -36,9 +36,6 @@ brew services start grafana
 ### 📊 Dashboard Overview  
 ![Dashboard Overview](images/dashboard_overview.png)
 
-### 🔍 Complaint Explorer  
-![Complaint Explorer](images/complaint_explorer.png)
-
 ### 🧠 NLP Query Summarizer  
 ![NLP Query Summarizer](images/nlp_query_summarizer.png)
 
