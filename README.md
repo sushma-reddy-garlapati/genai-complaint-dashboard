@@ -202,8 +202,4 @@ Focused on building recruiter-ready GenAI demos with real-time observability and
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/sushma-reddy-garlapati) | [GitHub](https://github.com/sushma-reddy-garlapati)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
