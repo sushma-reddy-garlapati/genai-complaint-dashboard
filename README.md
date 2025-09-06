@@ -30,3 +30,33 @@ prometheus --config.file=notebook/prometheus.yml
 
 # Start Grafana (macOS example)
 brew services start grafana
+```
+## 🖼️ Screenshots
+
+### 📊 Dashboard Overview  
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔍 Complaint Explorer  
+![Complaint Explorer](images/complaint_explorer.png)
+
+### 🧠 NLP Query Summarizer  
+![NLP Query Summarizer](images/nlp_query_summarizer.png)
+
+### 🆔 Complaint ID Lookup  
+![Complaint ID Lookup](images/complaint_id_lookup.png)
+
+### 🏦 Company Profile  
+![Company Profile](images/company_profile_aes_phea.png)
+
+### 📈 Prometheus Metrics Endpoint  
+![Prometheus Metrics](images/prometheus_metrics_endpoint.png)
+
+### 🔎 Prometheus Query Console  
+![Prometheus Query Console](images/prometheus_query_console.png)
+
+### 📊 Grafana Request Rate  
+![Grafana Request Rate](images/grafana_avg_request_duration.png)
+
+### 📜 FastAPI Swagger Docs  
+![FastAPI Swagger Docs](images/fastapi_swagger_docs.png)
+
